@@ -14,6 +14,6 @@ https://stardotjpg.github.io/Code-Refactor-Challenge/
 Made with ❤️ by Jason Greenia
 
 ## Website Screenshot
-!(/screenshot.png?raw=true "Website Screenshot")
+![Website Screenshot](/screenshot.png?raw=true)
 
 ### ©️2021 Horiseon Social Solution Services, Inc.
